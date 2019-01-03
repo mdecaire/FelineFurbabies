@@ -1,0 +1,36 @@
+﻿#content {
+    text-align: center;
+    padding-top: 35%;
+    text-shadow: 0px 4px 3px rgba(0,0,0,0.4), 0px 8px 13px rgba(0,0,0,0.1), 0px 18px 23px rgba(0,0,0,0.1);
+}
+.navbar-brand {
+    font-family: 'Courgette', cursive;
+}
+html, body {
+    height: 100%;
+    width: 100%;
+}
+
+body {
+    background-image: url('Images/home.jpg');
+    background-size: cover;
+    background-position: center;
+    font-family: 'Poppins', sans-serif;
+    color: rgb(220,20,60);
+}
+
+h1 {
+    font-weight: 600;
+    font-size: 6em;
+}
+
+h4 {
+    font-weight: 600;
+    font-size: 2.5em;
+}
+
+hr {
+    border: 0;
+    height: 2px;
+    background-image: linear-gradient(to right, rgba(255, 255, 255, 0), rgba(255, 255, 255, 0.75), rgba(255, 255, 255, 0));
+}

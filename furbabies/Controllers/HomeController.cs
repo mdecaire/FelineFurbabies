@@ -4,7 +4,7 @@ using System.Linq;
 using System.Web;
 using System.Web.Mvc;
 
-namespace FelineFurbabies.Controllers
+namespace furbabies.Controllers
 {
     public class HomeController : Controller
     {
